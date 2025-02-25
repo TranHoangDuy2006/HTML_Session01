@@ -1,0 +1,24 @@
+/* Bi loi khong hien dau cham khi dung ul */
+
+ul 
+{
+    list-style-type: disc; 
+    padding-left: 20px; 
+}
+
+li 
+{
+    font-size: 15px; 
+    margin-bottom: 5px; 
+}
+
+ol 
+{
+    list-style-type: decimal; 
+    padding-left: 20px; 
+}
+
+td 
+{
+    text-align: center;
+}
